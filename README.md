@@ -1,7 +1,7 @@
 # -1：需要借助腾讯云的云函数服务每日定点执行-
 ![云函数创建](https://s1.ax1x.com/2020/05/23/YxFK2t.png)
 # -2：触发时间自己设置（图中时间为每天23点，便于任务过完忘记签到）-
-![定时触发](https://github.com/xuxiaoyang11/TX_video_sign/edit/master/20200403211617661.png)
+![定时触发](https://s1.ax1x.com/2020/05/23/YxkZLT.png)
 # -3：添加代码-
 `````python
 import requests
