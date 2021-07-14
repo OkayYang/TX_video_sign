@@ -7,6 +7,7 @@
 import requests
 def request():
             #参考这个网站https://sc.ftqq.com/获取自己的sckey，cookie过期提醒
+            #不需要设置Cookie过期提醒可以把sckey,send_url相关代码删掉
             sckey=''
             send_url = "https://sc.ftqq.com/%s.send"%(sckey)
             Cookie= ''
