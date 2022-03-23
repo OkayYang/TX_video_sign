@@ -1,5 +1,5 @@
 import requests
-#参考这个网站https://sc.ftqq.com/获取自己的sckey，如果cookie失效会通过server酱提示
+#参考这个网站https://sc.ftqq.com/获取自己的sckey，如果cookie失效会通过server酱提示你
 sckey=''
 send_url = "https://sc.ftqq.com/%s.send"%(sckey)
 Cookie = ''
